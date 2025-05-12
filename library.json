@@ -1,0 +1,25 @@
+{
+    "name": "stm32-ssd1306",
+    "version": "1.0.0",
+    "description": "STM32 library for working with OLEDs based on SSD1306, supports I2C and 4-wire SPI. It also works with SH1106, SH1107 and SSD1309 which are compatible with SSD1306.",
+    "keywords": ["oled", "ssd1306", "arduino", "robotics", "display", "stm32"],
+    "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/nurulislam21/stm32-ssd1306.git"
+  },
+  "authors":
+  [
+    {
+      "name": "Nurul Islam",
+      "email": "noman1272003@gmail.com",
+      "url": "https://github.com/nurulislam21",
+      "maintainer": true
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/nurulislam21/stm32-ssd1306.git",
+  "frameworks": "arduino",
+  "platforms": "*"
+  }
+  
